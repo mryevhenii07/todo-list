@@ -1,0 +1,14 @@
+.text {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  width: 400px;
+  height: 50px;
+  font-size: 25px;
+}
+.wrap {
+  margin-top: 10px;
+  display: flex;
+
+  width: 500px;
+}

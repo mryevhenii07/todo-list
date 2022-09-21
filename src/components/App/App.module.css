@@ -1,0 +1,21 @@
+.app {
+  width: 100%;
+}
+.wrap {
+  margin: 150px auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 600px;
+  /* border: 1px solid red; */
+}
+
+.wrapBtnInput {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  height: 55px;
+}
