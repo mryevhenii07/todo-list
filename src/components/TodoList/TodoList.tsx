@@ -1,7 +1,6 @@
 import React from 'react'
 import TodoItem from '../TodoItem/TodoItem'
 import {ITodo} from '../types/data'
-
 import s from './TodoList.module.css'
 
 interface ITodoListProps {
